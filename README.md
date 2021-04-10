@@ -14,37 +14,18 @@
 <br/>
 🔭 I'm currently studying at University of Science - HCM.
 
-** 👨🏻‍💻Languages and Tools:**  
-<
+
+ #### 👨🏻‍💻Languages and Tools:
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-faf3dd?style=flat&logo=javascript)](https://github.com/nm-hoang) [![ReactJs](https://img.shields.io/badge/-ReactJs-1572B6?style=flat&logo=react)](https://github.com/nm-hoang) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/nm-hoang) <br/> [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/nm-hoang) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/nm-hoang) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/nm-hoang) <br />
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/nm-hoang) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/nm-hoang)
 
-<table>
-<tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
-<td>
-
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
-
-</td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
-</tr>
-</table>
-
+div class="row">
+  <div class="col-md-8" markdown="1">
+  Some text.
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
