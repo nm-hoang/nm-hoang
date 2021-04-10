@@ -5,7 +5,6 @@
     <div id="column1" style="float:left; margin:0; width:33%;" markdown="1">
     small left column in Markdown format
     </div>
-
     <div id="column2" style="float:left; margin:0; width:67%;" markdown="1">
     long right column in Markdown format happily complying
     </div>
