@@ -19,5 +19,5 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/nm-hoang) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/nm-hoang)
 
 <center>
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />&nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" /><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
 </center>
