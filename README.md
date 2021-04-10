@@ -1,16 +1,15 @@
 ### Hey, I'm Nguyen Minh Hoang 👋
 
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<div style="overflow: hidden">
+    <div id="column1" style="float:left; margin:0; width:33%;" markdown="1">
+    small left column in Markdown format
+    </div>
+
+    <div id="column2" style="float:left; margin:0; width:67%;" markdown="1">
+    long right column in Markdown format happily complying
+    </div>
+</div>
 
 <a href="https://github.com/nm-hoang">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
