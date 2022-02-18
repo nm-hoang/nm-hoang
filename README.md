@@ -23,7 +23,8 @@
  [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/nm-hoang)
 
 <br/>
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" height="200" />
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" height="200" />
+
+<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="200" />
+<img align="left" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="200" />
 
 
