@@ -11,7 +11,7 @@
  #### 👨🏻‍💻Languages and Tools:
 
  [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/nm-hoang) 
- [![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://github.com/nm-hoang)
+ [![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/nm-hoang)
  
 
 
