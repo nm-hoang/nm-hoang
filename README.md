@@ -5,11 +5,13 @@
 </a>
 
 <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="600"  />
 <br/>
 🔭 I'm currently studying at University of Science - HCM.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="600"  />    
- #### 👨🏻‍💻Languages and Tools:
+
+
+ ### 👨🏻‍💻Languages and Tools:
 
  [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/nm-hoang) 
   [![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/nm-hoang)
