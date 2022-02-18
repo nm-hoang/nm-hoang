@@ -22,5 +22,5 @@
 <br/>
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
 <br/><br/>
-<img src="https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal" width="400" height="300" />     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="400" height="300" />     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" />
 
