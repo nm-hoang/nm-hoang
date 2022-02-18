@@ -8,6 +8,7 @@
 <br/>
 🔭 I'm currently studying at University of Science - HCM.
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="600"  />    
  #### 👨🏻‍💻Languages and Tools:
 
  [![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/nm-hoang) 
@@ -22,5 +23,4 @@
 <br/>
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="400" height="300" />     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" />
 
