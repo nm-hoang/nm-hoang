@@ -6,9 +6,8 @@
 
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-hoang&theme=vue" width="600"  />
-<br/>
 <div style="width: 70%">
-🔭 I'm currently studying at University of Science - HCM and working as a Software Engineer at Mobile World Investment Corp. <img src="https://emojis.slackmojis.com/emojis/images/1643512180/37068/gentleman_cat.png?1643512180" width="28px" />  .
+🔭 I'm currently studying at University of Science - HCM and working as a Software Engineer at Mobile World Investment Corp. <img src="https://emojis.slackmojis.com/emojis/images/1643512180/37068/gentleman_cat.png?1643512180" width="28px" />
 </div>
 
 
