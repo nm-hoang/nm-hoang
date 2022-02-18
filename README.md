@@ -1,4 +1,4 @@
-### Hey, I'm Hoang Nguyen 👋
+### Hey, I'm Hoang Nguyen <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="32px" />
 
 <a href="https://github.com/nm-hoang">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -24,7 +24,7 @@
 
 <br/>
 <div style="float:left"> 
-<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
-<img align="left" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" height="300" />
 </div>
 
