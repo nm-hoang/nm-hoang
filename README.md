@@ -1,11 +1,7 @@
 ### Hey, I'm Hoang Nguyen <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="32px" />
 
-<a href="https://github.com/nm-hoang">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <br/>
-\
+
 <div style="width: 70%">
 🔭 I'm currently studying at University of Science - HCM and working as a Software Engineer at Mobile World Investment Corp. <img src="https://emojis.slackmojis.com/emojis/images/1643512180/37068/gentleman_cat.png?1643512180" width="28px" />
 </div>
