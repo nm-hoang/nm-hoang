@@ -4,6 +4,7 @@
 <div style="width: 70%">
 🔭 I'm currently studying at University of Science - HCM and working as a Software Engineer at Mobile World Investment Corp. <img src="https://emojis.slackmojis.com/emojis/images/1643512180/37068/gentleman_cat.png?1643512180" width="28px" />
 </div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" /> My Gitlab: <a target="_blank" href="https://gitlab.com/nm-hoang1">nm-hoang1</a>
 
 
  ### 👨🏻‍💻Languages and Tools:
